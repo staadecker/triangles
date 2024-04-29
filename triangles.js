@@ -16,7 +16,7 @@ const SPRING = 0.05;
 const SPRING_LEN = 200;
 const SPRING_DAMPEN = 0.4;
 const STOP_SPIN = 0.01;
-const MAX_SPEED = 300;
+const MAX_SPEED = 100;
 const DEBUG = false;
 
 let avg_vx_acc = 0;
